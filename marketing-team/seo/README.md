@@ -10,7 +10,9 @@ Customers entering your site should complete checkout and they should not visit 
 
 So google will understand you are serving customer requirement
 
-So keep little content, but keep quality and relevant content
+So keep little content, but keep quality and relevant content *SET YOUR BUSINESS SCOPE*
+
+- Before you might not had a good seo team or technology, now you have this documents and we are with you. so now you can get technology and process to build seo, setup and manage desing, seo and content team easily, you should bother more about serving customers properly, ensuring customers is getting served(In other words, customer is visiting other websites and getting their work done)
 
 ## SEO Contribution by Teams
 
