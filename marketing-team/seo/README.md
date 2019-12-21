@@ -1,6 +1,6 @@
 # Marketing Team -> SEO
 
-Top point: As of now SEO === Google
+**Top point: As of now SEO === Google**
 
 If you like to stay top in google, You should not only give best Technical SEO, Content SEO, Design SEO
 
@@ -9,6 +9,8 @@ You should also deliver what you shown in the website, High engagement and Low b
 Customers entering your site should complete checkout and they should not visit other similar websites
 
 So google will understand you are serving customer requirement
+
+So keep little content, but keep quality and relevant content
 
 ## SEO Contribution by Teams
 
