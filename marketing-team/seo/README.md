@@ -27,7 +27,9 @@ So keep little content, but keep quality and relevant content *SET YOUR BUSINESS
 -- CDN(cloudflare, akamai)
 - Schema Integration - https://wordlift.io/how-it-works/
 - Knowledge Graph Integration
-- Smooth Search - Autocomplete & Full Text Search - Algolia.com https://www.algolia.com/enterprise/customers/
+- Smooth Search 
+-- Autocomplete - fast and relevant and content should be there
+-- Full Text Search - Algolia.com https://www.algolia.com/enterprise/customers/
 
 
 #### SEO for Content
