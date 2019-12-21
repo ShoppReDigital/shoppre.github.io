@@ -1,4 +1,4 @@
-# Marketing Team -> SEO
+# Marketing Team | SEO
 
 **Top point: As of now SEO === Google**
 
@@ -49,6 +49,7 @@ So keep little content, but keep quality and relevant content *SET YOUR BUSINESS
 - Training Video
 - Product Demo video
 - Everything in content can also be done in video
+- video not necessarily human video - google will give indian local voice, content team willl give content, design team will give graphics in video composer online powtoon(https://youtu.be/5feBaznJQBs)
 
 
 ### Engagement: SEO with Marketing/Product Team
