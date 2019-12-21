@@ -78,6 +78,8 @@ For ex:
 ##### By employees & teams
 - Sales, payments and support team
 - feedback team
+- this teams can be engaged by giving incentives based on seo performance monitoring, gamification
+--  support and sales team people should tell topics and give raw content to content writer and designer and credits of work will goto sales and support people(monetory benefits)
 
 ##### By Applications
 - Sales chat
